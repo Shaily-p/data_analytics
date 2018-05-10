@@ -1,4 +1,4 @@
-# data_analytics
+# Detection of Trending Repositories Communities
 The objective of this project is to identify users that are interested on a similar subject and based on it observe a relevant user group.
 
 This notebook includes methods that identifies topic-dependent user groups by linking those who generate the content (repository contributors) and those who spread this content(watchers).
